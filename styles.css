@@ -83,3 +83,12 @@ button {
     background-size: 115px;
     background-position: center;
 }
+
+@media (max-width: 500px) {
+    .unicorn {
+        background-image: url('./images/unicorn.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}
