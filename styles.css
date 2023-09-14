@@ -1,0 +1,85 @@
+
+
+.unicorn {
+    background-image: url('./images/unicorn.png');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 5rem;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.s {
+    height: 5rem;
+    width: 10rem;
+    margin: 1rem;
+    
+    
+}
+
+button {
+    display: flex;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid red;
+    font-size: 1rem;
+    font: bold;
+}
+
+.a {
+    background-image: url('images/1love.png');
+    background-size: 130px;
+    background-position: center;
+}
+
+.b {
+    background-image: url('images/2love.png');
+    background-size: 130px;
+    background-position: center;
+}
+
+.c {
+    background-image: url('images/3love.png');
+    background-size: 130px;
+    background-position: center;
+}
+
+.d {
+    background-image: url('images/4love.png');
+    background-size: 100px;
+    background-position: center;
+}
+
+.e {
+    background-image: url('images/love5.png');
+    background-size: 115px;
+    background-position: center;
+}
+
+.f {
+    background-image: url('images/mwua.png');
+    background-size: 115px;
+    background-position: center;
+}
